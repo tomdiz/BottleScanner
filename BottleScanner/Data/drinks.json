@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1000,
+        "name": "Coke",
+        "sodium_mg": 10,
+        "isFavorite": true,
+        "size_oz": 8,
+        "image_name": "coke"
+    },
+    {
+        "id": 1001,
+        "name": "Gatorade",
+        "sodium_mg": 8,
+        "isFavorite": false,
+        "size_oz": 12,
+        "image_name": "gatorade"
+    },
+    {
+        "id": 1002,
+        "name": "Powerade",
+        "sodium_mg": 8,
+        "isFavorite": false,
+        "size_oz": 16,
+        "image_name": "powerade"
+    }
+]

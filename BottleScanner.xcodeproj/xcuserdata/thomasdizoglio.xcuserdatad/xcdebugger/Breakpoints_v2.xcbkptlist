@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "703E69A6-656D-4833-9AFC-791F0B966B4C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E256B88B-946A-4B75-9545-278D097B71D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BottleScanner/Views/QRCodeBottleScannerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E256B88B-946A-4B75-9545-278D097B71D2 - e7db795ec0b45ef4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;CodeScanner.ScanResult, CodeScanner.ScanError&gt;) -&gt; () in closure #2 () -&gt; CodeScanner.CodeScannerView in BottleScanner.QRCodeBottleScannerView.body.getter : some"
+                  moduleName = "BottleScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thomasdizoglio/development/BottleScanner/BottleScanner/Views/QRCodeBottleScannerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "E256B88B-946A-4B75-9545-278D097B71D2 - e7db795ec0b45ef4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;CodeScanner.ScanResult, CodeScanner.ScanError&gt;) -&gt; () in closure #2 () -&gt; CodeScanner.CodeScannerView in BottleScanner.QRCodeBottleScannerView.body.getter : some"
+                  moduleName = "BottleScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thomasdizoglio/development/BottleScanner/BottleScanner/Views/QRCodeBottleScannerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
